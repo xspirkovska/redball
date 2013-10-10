@@ -1,4 +1,5 @@
 redball
 =======
 
-Ping Pong game with Red Ball and two paddles created wit HTML5 
+Red ball ping-pong game created whit HTML5 and JS
+
